@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sivamedisetti/exampleproject.git/static/css/main.f855e6bc.css",
+    "main.js": "/Sivamedisetti/exampleproject.git/static/js/main.979257db.js",
+    "static/js/453.64512fd7.chunk.js": "/Sivamedisetti/exampleproject.git/static/js/453.64512fd7.chunk.js",
+    "static/media/logo.svg": "/Sivamedisetti/exampleproject.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sivamedisetti/exampleproject.git/index.html",
+    "main.f855e6bc.css.map": "/Sivamedisetti/exampleproject.git/static/css/main.f855e6bc.css.map",
+    "main.979257db.js.map": "/Sivamedisetti/exampleproject.git/static/js/main.979257db.js.map",
+    "453.64512fd7.chunk.js.map": "/Sivamedisetti/exampleproject.git/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.979257db.js"
+  ]
+}
